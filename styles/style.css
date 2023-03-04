@@ -54,7 +54,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin: 0 auto
+  margin: 0 auto;
 }
 
 .link {
@@ -157,6 +157,8 @@
 
 .table__text {
   margin: 20px auto 0;
+  line-height: 1.2;
+  font-size: 18px;
 }
 
 .table__cell {
@@ -165,18 +167,10 @@
 }
 
 .table__heading {
-  margin: 0;
-}
-
-.table__heading {
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-}
-
-.table__text {
-  line-height: 1.2;
-  font-size: 18px;
+  margin: 0;
 }
 
 .table__text-world-bank {
