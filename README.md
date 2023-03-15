@@ -1,2 +1,6 @@
-# H1 how-to-learn
+#  Проект <<Научиться учиться>>.
 
+
+
+
+### Author: Alexey Ushakov.
