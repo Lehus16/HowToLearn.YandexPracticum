@@ -1,7 +1,8 @@
 #  Проект <<Научиться учиться>>.
-------
 
+  
 
-
-
-### Author: Alexey Ushakov.
+  
+  
+  
+### Author: *Alexey Ushakov.*
