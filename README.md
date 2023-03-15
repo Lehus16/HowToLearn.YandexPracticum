@@ -1,2 +1,2 @@
-#1 how-to-learn
-How to learn
+# H1 how-to-learn
+
