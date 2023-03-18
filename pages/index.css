@@ -1,5 +1,5 @@
 @import url(/vendor/normalize.css);
-@import url(/blocks/animation/rotate.css);
+@import url(/blocks/animation/rotation/ratation.css);
 @import url(/blocks/page/page.css);
 @import url(/blocks/link/link.css);
 @import url(/blocks/logo/logo.css);
@@ -67,10 +67,10 @@
 /* kaufman */
 @import url(/blocks/content/kaufman/kaufman.css);
 @import url(/blocks/content/kaufman/__triangle/kaufman__triangle.css);
-/* resourcec */
-@import url(/blocks/content/resourcec/resourcec.css);
-@import url(/blocks/content/resourcec/__link/resourcec__link.css);
-@import url(/blocks/content/resourcec/__logo-zone/resourcec__logo-zone.css);
+/* resources */
+@import url(/blocks/content/resources/resources.css);
+@import url(/blocks/content/resources/__link/resources__link.css);
+@import url(/blocks/content/resources/__logo-zone/resources__logo-zone.css);
 /* footer */
 @import url(/blocks/footer/footer.css);
 @import url(/blocks/footer/__author/footer__author.css);
