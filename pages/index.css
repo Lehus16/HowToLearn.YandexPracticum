@@ -1,5 +1,5 @@
 @import url(/vendor/normalize.css);
-@import url(/blocks/header/animation/rotate.css);
+@import url(/blocks/animation/rotate.css);
 @import url(/blocks/page/page.css);
 @import url(/blocks/link/link.css);
 @import url(/blocks/logo/logo.css);
@@ -45,15 +45,32 @@
 @import url(/blocks/content/video/__iframes/video__iframes.css);
 @import url(/blocks/content/video/__iframe/last-of-type/video__iframe\ last-of-type.css);
 /* oakley */
+@import url(/blocks/content/oakley/oakley.css);
 /* feynman */
 @import url(/blocks/content/feynman/__link/feynman__link.css);
 @import url(/blocks/content/feynman/feynman.css);
 @import url(/blocks/content/feynman/__subtitle/feynman__subtitle.css);
 @import url(/blocks/content/feynman/__title/feynman__title.css);
-/* resourcec */
+/* digist */
+@import url(/blocks/content/digits/digits.css);
+/* khan */
+@import url(/blocks/content/khan/khan.css);
+@import url(/blocks/content/khan/__container/khan__container.css);
+@import url(/blocks/content/khan/__container/__author/khan__author.css);
+@import url(/blocks/content/khan/__container/__book-container/khan__book-container.css);
+@import url(/blocks/content/khan/__container/__book-container/__book-link/khan__book-link.css);
+@import url(/blocks/content/khan/__container/__book-container/__book-pic/khan__book-pic.css);
+@import url(/blocks/content/khan/__container/__quote-author-subline/khan__quote-author-subline.css);
+@import url(/blocks/content/khan/__container/__quote-author/khan__quote-author.css);
+@import url(/blocks/content/khan/__container/__quote/khan__quote.css);
+@import url(/blocks/content/khan/__container/__title/khan__title.css);
 /* kaufman */
 @import url(/blocks/content/kaufman/kaufman.css);
 @import url(/blocks/content/kaufman/__triangle/kaufman__triangle.css);
+/* resourcec */
+@import url(/blocks/content/resourcec/resourcec.css);
+@import url(/blocks/content/resourcec/__link/resourcec__link.css);
+@import url(/blocks/content/resourcec/__logo-zone/resourcec__logo-zone.css);
 /* footer */
 @import url(/blocks/footer/footer.css);
 @import url(/blocks/footer/__author/footer__author.css);
